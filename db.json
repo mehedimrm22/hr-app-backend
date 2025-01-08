@@ -1,102 +1,68 @@
 {
-  "transactions": [
+  "employees": [
     {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "1",
+      "name": "John Cena",
+      "role": "Front End Developer",
+      "department": "Web Development",
+      "startDate": "2018-02-01",
+      "location": "Pasila"
     },
     {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "2",
+      "name": "Brett Lee",
+      "role": "Back End Developer",
+      "department": "Web Development",
+      "startDate": "2015-06-05",
+      "location": "Helsinki"
     },
     {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "3",
+      "name": "Mitchel Starc",
+      "role": "Full Stack Developer",
+      "department": "Web Development",
+      "startDate": "2020-03-08",
+      "location": "Toolo"
     },
     {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "id": "4",
+      "name": "Pat Cummins",
+      "role": "Mobile App Developer",
+      "department": "Mobile App",
+      "startDate": "2012-02-01",
+      "location": "Tampere"
     },
     {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "id": "5",
+      "name": "Devon Conway",
+      "role": "Mobile App Developer",
+      "department": "Mobile App",
+      "startDate": "2014-02-01",
+      "location": "Turku"
     },
     {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "id": "6",
+      "name": "Trent Boult",
+      "role": "Game Developer",
+      "department": "Game Development",
+      "startDate": "2019-02-01",
+      "location": "Vaasa"
     },
     {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "id": "64e3",
+      "name": "Something",
+      "role": "Front End",
+      "department": "Web Development",
+      "startDate": "2022-11-11",
+      "location": "Pasila"
     },
     {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
-    },
-    {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
-    },
-    {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "ae6d",
+      "name": "Md Mahmudur Rahman",
+      "role": "Front End",
+      "department": "Web Development",
+      "startDate": "2021-11-22",
+      "location": "Pasila"
     }
   ]
 }
